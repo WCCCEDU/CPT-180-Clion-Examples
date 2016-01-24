@@ -4,3 +4,6 @@
 [submodule "CPT-180-Clion-Simple-Program"]
 	path = CPT-180-Clion-Simple-Program
 	url = git@github.com:WCCCEDU/CPT-180-Clion-Simple-Program.git
+[submodule "CPT-180-Clion-Lambda-Example"]
+	path = CPT-180-Clion-Lambda-Example
+	url = git@github.com:WCCCEDU/CPT-180-Clion-Lambda-Example.git
