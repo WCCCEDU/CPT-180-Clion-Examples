@@ -7,3 +7,9 @@
 [submodule "CPT-180-Clion-Lambda-Example"]
 	path = CPT-180-Clion-Lambda-Example
 	url = git@github.com:WCCCEDU/CPT-180-Clion-Lambda-Example.git
+[submodule "CPT-180-Clion-Curses-Keyboard-Interface"]
+	path = CPT-180-Clion-Curses-Keyboard-Interface
+	url = git@github.com:WCCCEDU/CPT-180-Clion-Curses-Keyboard-Interface.git
+[submodule "CPT-180-Clion-Curses"]
+	path = CPT-180-Clion-Curses
+	url = git@github.com:WCCCEDU/CPT-180-Clion-Curses.git
